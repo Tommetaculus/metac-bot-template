@@ -28,9 +28,10 @@ if GET_NEWS == True:
 
 # The tournament IDs below can be used for testing your bot.
 # TOURNAMENT_ID = 32506 # Q4 AI Benchmarking
-TOURNAMENT_ID = 3672  # Quarterly Cup
+# TOURNAMENT_ID = 3672  # Quarterly Cup
 # TOURNAMENT_ID = 3600 # GiveWell
 # TOURNAMENT_ID = 3411 # Respiratory Outlook
+TOURNAMENT_ID = 2844 # ACX 2024
 
 # The example questions can be used for testing your bot.
 EXAMPLE_QUESTIONS = [  # (question_id, post_id)
